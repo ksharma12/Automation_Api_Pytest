@@ -18,6 +18,6 @@ print(response.status_code)
 # requests.post(url="https://api.stripe.com" + "/v1/customers",
 #               json=json)
 
-json_file = open('Apis/Query_Params/create_customer_copy.json', 'r')
+json_file = open('Jsons/Query_Params_Jsons/create_customer_copy.json', 'r')
 json_data = json.load(json_file)
 print(json_data["name"])

@@ -7,7 +7,7 @@ import requests
 log = Logger(__name__, logging.INFO)
 
 
-class Request_Operations:
+class Response_Operations:
 
     def __init__(self, response):
         self.response = response

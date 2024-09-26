@@ -4,11 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e20ff3a-4f12-4d86-99f6-1fc8ea302679" name="Changes" comment="" />
+    <list default="true" id="9e20ff3a-4f12-4d86-99f6-1fc8ea302679" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_Operations/Prepared_Request_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Api_Operations/Prepared_Request_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_Operations/Requests_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Api_Operations/Requests_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api_Operations/Response_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Api_Operations/Response_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apis/Api_skelotons.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Apis/Customer_APIs.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Apis/Query_Params/create_customer_copy.json" beforeDir="false" afterPath="$PROJECT_DIR$/Jsons/Query_Params_Jsons/create_customer_copy.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Automation_Practice_Site_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Api_Operations/Json_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Dummy_Registration_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Reqres_APIs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Home_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/LifeTime_MemenberShip_Club_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Apis/Reqres_APIs.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Log_In_Page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Customer_APIs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Selenium_4_Popup_Page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_Operations/Waits_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_Operations/Waits_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Cases/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Cases/test_Dummy_Registration.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Cases/test_Customer_APIs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/Common_Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/Common_Operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rough.py" beforeDir="false" afterPath="$PROJECT_DIR$/rough.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,13 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/keshavsharma/Desktop/Automation_Projects/Automation_Api_Pytest"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/keshavsharma/Desktop/Automation_Projects/Automation_Api_Pytest&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Jsons" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
